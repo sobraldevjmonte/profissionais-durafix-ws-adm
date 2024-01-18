@@ -1,0 +1,12 @@
+{
+    "env": {
+        "POSTGRES_HOST": "localhost",
+        "POSTGRES_USER": "postgres",
+        "POSTGRES_PASSWORD": "postgres",
+        "POSTGRES_DATABASE": "profdurafix",
+        "POSTGRES_PORT": "5432",
+
+        "JWT_KEY": "key",
+        "URL_API": "http://localhost:6000/"
+    }
+}
